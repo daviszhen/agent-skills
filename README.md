@@ -4,7 +4,7 @@ A curated, Chinese-annotated collection of agent skills for **ordinary users** �
 
 **77 packages** · all with an explicit license (MIT / Apache-2.0 / CC0) · each is a `SKILL.md` plus its references.
 
-→ Site (113 entries, search, downloads): https://digitalitem.online/skills/
+→ Site (113 entries, search, downloads): https://digitalitem.online/en/skills/
 → 中文说明: [README.zh.md](README.zh.md)
 
 ## What's inside
